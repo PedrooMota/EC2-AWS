@@ -8,4 +8,4 @@ services:
       - "3002:3000"
     build:
       context: .
-      dockerfile: Dockerfile.web
+      dockerfile: Dockerfile
